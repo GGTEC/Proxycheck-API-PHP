@@ -11,4 +11,6 @@ if (proxycheck_function($_SERVER["HTTP_CF_CONNECTING_IP"])) {
     echo "<script>window.location.replace('https://dotcom.com/yourerrorpagetoredrectVPNSuser.html');</script>";
 }
 
+The API from IPQualityscord Grants you to made 5.000 free checks per month.
+
 //Brasilian guy willing to help the next one, good luck!!
