@@ -146,7 +146,7 @@
         
         // If not a VPN perform other checks (optional)
         
-        if(in_array($COUNTRY, $PROV)){
+        if(in_array($PROVRES, $PROV)){
           
           //provider not allowed has been detected, Block 
           
@@ -154,7 +154,7 @@
             
         } else {
 
-            if (in_array($PROVRES, $ALLOWCOUNTRY)) {
+            if (in_array($COUNTRY, $ALLOWCOUNTRY)) {
               
               // Country Allowed found, bypass.
               
