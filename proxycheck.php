@@ -20,7 +20,7 @@
 
 
 
-    $API_Key = "8073x7-r5g10d-3f3499-61593t"; // Supply your API key between the quotes if you have one (Create account on proxycheck.io)
+    $API_Key = "YOUR_API_KEY"; // Supply your API key between the quotes if you have one (Create account on proxycheck.io)
 
     $VPN = "1"; // Change this to 1 if you wish to perform VPN Checks on your visitors
 
